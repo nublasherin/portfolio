@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgrey;
+
+}
+.nav h3{
+    color: green;
+    padding: 30px 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.nav a{
+    margin: 10px;
+    text-decoration: none;
+    color: green;
+}
